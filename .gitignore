@@ -1,0 +1,16 @@
+# 二进制产物
+/pulse-tui
+/pulse-tui-*
+/cmd/pulse-tui/pulse-tui
+/dist/
+
+# Go
+*.test
+*.out
+
+# macOS
+.DS_Store
+.idea/
+.workbuddy/
+/ratetest
+/cmd/ratetest/ratetest
